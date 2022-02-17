@@ -3,3 +3,4 @@ uvicorn
 fastapi_chameleon
 aiofiles
 starlette
+python-multipart
